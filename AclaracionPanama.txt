@@ -1,0 +1,17 @@
+Panama tiene las siguientes provincias
+PA-1 	Bocas del Toro
+PA-2 	Coclé
+PA-3 	Colón
+PA-4 	Chiriquí
+PA-5 	Darién
+PA-6 	Herrera
+PA-7 	Los Santos
+PA-8 	Panamá
+PA-9 	Veraguas
+PA-13 	Panamá Oeste
+
+y además 3 Comarcas
+
+PA-EM 	Emberá-Wounaan
+PA-KY 	Guna Yala
+PA-NB 	Ngäbe-Buglé
