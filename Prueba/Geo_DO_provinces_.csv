@@ -1,30 +1,30 @@
-DO-01 	Distrito Nacional
-DO-02 	Azua
-DO-03 	Bahoruco
-DO-04 	Barahona
+Azua, DO-02
+Bahoruco, DO-03
+Barahona, DO-04
 Dajabón, DO-05
+Distrito Nacional, DO-01
 Duarte, DO-06
-Elías Piña, DO-07
-El Seibo, DO-08
-Espaillat, DO-09
-Independencia, DO-10
-La Altagracia, DO-11
-La Romana, DO-12
-La Vega, DO-13
-María Trinidad Sánchez, DO-14
-Monte Cristi, DO-15
-Pedernales, DO-16
-Peravia, DO-17
-Puerto Plata, DO-18
-Hermanas Mirabal (Salcedo, antes de noviembre de 2007), DO-19
-Samaná, DO-20
-San Cristóbal, DO-21
-San Juan, DO-22
-San Pedro de Macorís, DO-23
-Sánchez Ramírez, DO-24
-Santiago, DO-25
-Santiago Rodríguez, DO-26
-Valverde, DO-27
-Monseñor Nouel (creado en 1992 a partir La Vega), DO-28
-Monte Plata (creado en 1992 a partir de San Cristóbal), DO-29
-Hato Mayor (creado en 1992 a partir de El Seibo), DO-30
+El Seibo, DO-08, 1
+Elías Piña, DO-07, 2
+Espaillat, DO-09, 3
+Hato Mayor, DO-30, 4
+Independencia, DO-10, 5
+La Altagracia, DO-11, 6
+La Romana, DO-12, 7
+La Vega, DO-13, 8
+María Trinidad Sánchez, DO-14, 9
+Monseñor Nouel, DO-28, 10
+Monte Cristi, DO-15, 11
+Monte Plata, DO-29, 12
+Pedernales, DO-16, 13
+Peravia, DO-17, 14
+Puerto Plata, DO-18, 15
+Hermanas Mirabal, DO-19, 16
+Samaná, DO-20, 17
+San Cristóbal, DO-21, 18
+San Juan, DO-22, 19
+San Pedro de Macorís, DO-23, 20
+Sánchez Ramírez, DO-24, 21
+Santiago, DO-25, 22
+Santiago Rodríguez, DO-26, 23
+Valverde, DO-27, 24
